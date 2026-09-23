@@ -1,32 +1,42 @@
-ShopEase – E-Commerce Website
-Short Description
+#  ShopEase – E-Commerce Website
 
-ShopEase is a responsive e-commerce web application built using React.js. It allows users to browse products, search and filter products, and add products to the shopping cart.
+## Short Description
 
-Technologies Used
-React.js
-JavaScript
-HTML5
-CSS3
-Vite
-React Router
-React Context API
-React Icons
-How to Install Dependencies
-npm install
-How to Run the Project
+ShopEase is a modern and responsive e-commerce web application built with React.js. 
+It allows users to browse products, search and filter products by category, and add 
+products to their shopping cart through a simple and user-friendly interface.
+
+##  Technologies Used
+
+-  React.js
+-  JavaScript (ES6+)
+-  HTML5
+-  CSS3
+-  Vite
+-  React Router
+-  React Context API
+-  React Icons
+
+##  How to Install Dependencies
+
+Clone the repository and navigate to the project folder:
+
+```bash
+git clone <your-github-repository-url>
+cd Ecommerce
+
+## To run the project
 npm run dev
 
-Then open:
-
-http://localhost:5173/
-Main Features
-Product listing
-Product search
-Category filtering
-Add to Cart
-Cart item count
+## Main Features
+Browse available products
+Search products
+Filter products by category
+Add products to cart
+Display cart item count
 User account section
-Home, About and Cart pages
-Responsive design
-React Context API for state management
+Home page
+About page
+Cart page
+Responsive and user-friendly interface
+Context API for state management
